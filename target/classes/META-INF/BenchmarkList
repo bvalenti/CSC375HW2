@@ -1,0 +1,4 @@
+JMH S 31 org.sample.BenchmarkSimulation1 S 60 org.sample.generated.BenchmarkSimulation1_benchmark1_jmhTest S 10 benchmark1 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 31 org.sample.BenchmarkSimulation2 S 60 org.sample.generated.BenchmarkSimulation2_benchmark2_jmhTest S 10 benchmark2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 31 org.sample.BenchmarkSimulation3 S 60 org.sample.generated.BenchmarkSimulation3_benchmark3_jmhTest S 10 benchmark3 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 31 org.sample.BenchmarkSimulation4 S 60 org.sample.generated.BenchmarkSimulation4_benchmark4_jmhTest S 10 benchmark4 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
